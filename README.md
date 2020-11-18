@@ -1,2 +1,5 @@
 # hello-world
-Example repository
+
+Hello Everyone
+
+I'm Lalo, I like python and jupyter, and I'm learning to use git
